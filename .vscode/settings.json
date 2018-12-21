@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "array": "c",
+        "vector": "c",
+        "stdlib.h": "c",
+        "*.tcc": "c",
+        "unordered_map": "c",
+        "fstream": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "stdio.h": "c",
+        "deque": "cpp",
+        "typeinfo": "c",
+        "bst.h": "c",
+        "system_error": "c",
+        "type_traits": "c"
+    },
+    "files.encoding": "cp950"//windows cmd 
+}
